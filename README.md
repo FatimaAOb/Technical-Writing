@@ -14,7 +14,7 @@ This repo contains demo content.
    Audience: Technical users <br>
    Purpose: Answers to common user questions <br>
 
-3. **How to guide - GradeLink (EN))** <br>
+3. **How to guide - GradeLink ([EN](GradeLink_How_To_Guide_en_v1.0.pdf))** <br>
    Version: 1.0 <br>
    Audience: Technical admin users <br>
    Purpose: Steps to create a new term and preparing the system for use <br>
