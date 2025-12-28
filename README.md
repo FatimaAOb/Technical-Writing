@@ -3,7 +3,7 @@ Technical writing repo showcasing User manuals, FAQ documents, process flows, an
 
 This repo contains demo content. 
 
-### Documentation Samples
+## Documentation Samples
 1. **User Manual - ClassDojo (EN/AR)** <br>
    Version: 1.0 <br>
    Audience: Parents <br>
