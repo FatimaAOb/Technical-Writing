@@ -5,7 +5,7 @@ This repo contains demo content.
 
 # Documentation Samples
 1. **User Manual - ClassDojo (EN/AR)**
-   Version: 1.0
+   Version: 1.0 <\br>
    Audience: Parents
    Purpose: System overview, key workflows
 
