@@ -10,16 +10,16 @@ This repo contains demo content.
    Purpose: System overview, key workflows <br>
 
 2. **FAQ - draw.io (EN/AR)**
-   Version: 1.0
-   Audience: Technical users 
-   Purpose: Answers to common user questions
+   Version: 1.0 <br>
+   Audience: Technical users <br>
+   Purpose: Answers to common user questions <br>
 
 3. **How to guide - GradeLink (EN)**
-   Version: 1.0
-   Audience: Technical admin users 
-   Purpose: Steps to create a new term and preparing the system for use.
+   Version: 1.0 <br>
+   Audience: Technical admin users <br>
+   Purpose: Steps to create a new term and preparing the system for use <br>
 
 4. **Flowchart - SigmaGame (EN)**
-   Version: 1.0
-   Audience:  Developers / Technical Team
-   Purpose: Illustrates the system workflow and decision paths for SigmaGame
+   Version: 1.0 <br>
+   Audience:  Developers / Technical Team <br>
+   Purpose: Illustrates the system workflow and decision paths for SigmaGame <br>
