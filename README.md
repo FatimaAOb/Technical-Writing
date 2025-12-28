@@ -4,10 +4,10 @@ Technical writing repo showcasing User manuals, FAQ documents, process flows, an
 This repo contains demo content. 
 
 # Documentation Samples
-1. **User Manual - ClassDojo (EN/AR)**
-   Version: 1.0 <\br>
-   Audience: Parents
-   Purpose: System overview, key workflows
+1. **User Manual - ClassDojo (EN/AR)** <br>
+   Version: 1.0 <br>
+   Audience: Parents <br>
+   Purpose: System overview, key workflows <br>
 
 2. **FAQ - draw.io (EN/AR)**
    Version: 1.0
