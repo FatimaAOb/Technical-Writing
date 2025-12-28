@@ -23,3 +23,8 @@ This repo contains demo content.
    Version: 1.0 <br>
    Audience:  Developers / Technical Team <br>
    Purpose: Illustrates the system workflow and decision paths for SigmaGame <br>
+
+
+##Tools Used
+- Draw.io (flowcharts)
+- Google Docs (manuals, error handling)
