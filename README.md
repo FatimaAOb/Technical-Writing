@@ -24,7 +24,6 @@ This repo contains demo content.
    Audience:  Developers / Technical Team <br>
    Purpose: Illustrates the system workflow and decision paths for SigmaGame <br>
 
-
-##Tools Used
+## Tools Used
 - Draw.io (flowcharts)
 - Google Docs (manuals, error handling)
