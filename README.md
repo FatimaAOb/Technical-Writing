@@ -24,7 +24,7 @@ Technical writing samples covering system documentation, user guides, process do
    Audience:  Developers / Technical Team <br>
    Purpose: Illustrates the system workflow and decision paths for SigmaGame <br>
 
-   [test](classDojo_user_manual_en_v1.0.pdf)
+  
 
 ## Tools Used
 - Draw.io (flowcharts)
