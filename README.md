@@ -1,7 +1,7 @@
 # Technical-Writing
-Technical writing repo showcasing User manuals, FAQ documents, process flows, and software documentation in English and Arabic.
+Technical writing samples covering system documentation, user guides, process documentation, and structured manuals created for technical and non-technical audiences in Arabic and English.
+*This repository contains demonstration content created for portfolio purposes.
 
-This repo contains demo content. 
 
 ## Documentation Samples
 1. **User Manual - ClassDojo ([EN](classDojo_user_manual_en_v1.0.pdf)/[AR](classdojo_user_manual_ar_v1.0.pdf))** <br>
