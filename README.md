@@ -1,5 +1,5 @@
 # Technical-Writing
-Technical writing samples covering system documentation, user guides, process documentation, and structured manuals created for technical and non-technical audiences in Arabic and English.
+Technical writing samples covering system documentation, user guides, process documentation, and structured manuals created for technical and non-technical audiences in Arabic and English. <br>
 *This repository contains demonstration content created for portfolio purposes.
 
 
