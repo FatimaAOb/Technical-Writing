@@ -24,7 +24,10 @@ Technical writing samples covering system documentation, user guides, process do
    Audience:  Developers / Technical Team <br>
    Purpose: Illustrates the system workflow and decision paths for SigmaGame <br>
 
-  
+5. **External - Educational content ([Google Drive Link](https://drive.google.com/drive/folders/1vgFuXlz2h4hWDPpzkDXAy9CI0pHB3mhn?usp=drive_link))** <br>
+   Version: 1.0 <br>
+   Audience: MYP Students <br>
+   Purpose: Exploration of different Tech tools  <br>
 
 ## Tools Used
 - Draw.io (flowcharts)
